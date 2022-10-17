@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>606588536016-uupi513lerfrdufvsenpjae1iqgmo1uo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.606588536016-uupi513lerfrdufvsenpjae1iqgmo1uo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCw3CZyqQhGWllig3OXvRhIU8BB9EF9MIA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>606588536016</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>kondiko.RemoteLearn</string>
+	<key>PROJECT_ID</key>
+	<string>remotelearn-847a2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>remotelearn-847a2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:606588536016:ios:be9a2b9fa6bc65335f0ad5</string>
+	<key>DATABASE_URL</key>
+	<string>https://remotelearn-847a2.firebaseio.com</string>
+</dict>
+</plist>

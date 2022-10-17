@@ -1,0 +1,6 @@
+framework module Pods_RemoteLearn {
+  umbrella header "Pods-RemoteLearn-umbrella.h"
+
+  export *
+  module * { export * }
+}
